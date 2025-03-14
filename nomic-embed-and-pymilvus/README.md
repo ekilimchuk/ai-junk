@@ -13,7 +13,7 @@ python3 -m venv ./
 . bin/activate
 
 # Instal libs from pip
-pip install pymilvu
+pip install pymilvus ollama
 
 # Run an example
 python example.py
